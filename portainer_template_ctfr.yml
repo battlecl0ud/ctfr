@@ -13,9 +13,8 @@
     "ports":       [],
     "env":         [ {
       "name":      "USER_INPUT",
-      "label":     "Arguments",
-      "set":      "--help"
-    }
+      "label":     "Arguments"
+      }
     ]
   }
 ]

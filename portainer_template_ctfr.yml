@@ -1,0 +1,21 @@
+[
+  {
+    "type":        "container",
+    "name":        "ctfr",
+    "title":       "ctfr",
+    "description": "Abusing Certificate Transparency logs for getting HTTPS websites subdomains",
+    "note":        "Auto generated Portainer template <br>Source https://github.com/UnaPibaGeek/ctfr.git",
+    "categories":  ["offensive"],
+    "platform":    "linux",
+    "network":     "haknet",
+    "logo":        "https://i.imgur.com/ZOuTP9V.png",
+    "image":       "ctfr:latest",
+    "ports":       [],
+    "env":         [ {
+      "name":      "USER_INPUT",
+      "label":     "Arguments",
+      "set":      "--help"
+    }
+    ]
+  }
+]

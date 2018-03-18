@@ -9,7 +9,7 @@
     "platform":    "linux",
     "network":     "haknet",
     "logo":        "https://i.imgur.com/ZOuTP9V.png",
-    "image":       "ctfr:latest",
+    "image":       "battlecl0ud/ctfr:latest",
     "ports":       [],
     "env":         [ {
       "name":      "USER_INPUT",
